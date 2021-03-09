@@ -1,0 +1,21 @@
+*{
+box-sizing: border-box;
+}
+
+#chess{
+    display: flex;
+    flex-wrap: wrap;
+    width: 806px;
+    margin: auto;
+    border: 3px solid #000;
+}
+
+.case{
+    width: 100px;
+    height: 100px;
+    background-color: #fff;
+}
+
+.case.caseGrise{
+    background-color: #454545;
+}
