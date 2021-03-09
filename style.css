@@ -13,9 +13,9 @@ box-sizing: border-box;
 .case{
     width: 100px;
     height: 100px;
-    background-color: #fff;
+    background-image: url(img/Free_Wood_Texture_09.jpg);
 }
 
 .case.caseGrise{
-    background-color: #454545;
+    background-image: url(img/Free_Wood_Texture_10.jpg);
 }

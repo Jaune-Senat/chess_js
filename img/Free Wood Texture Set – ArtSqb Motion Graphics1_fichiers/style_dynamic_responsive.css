@@ -1,0 +1,11 @@
+@media only screen and (min-width: 480px) and (max-width: 768px){
+	/* generated in /var/www/u0325288/public_html/artsqb.com/wp-content/themes/awake/assets/custom-styles/general-custom-styles-responsive.php awake_elated_design_responsive_styles function */
+.eltd-section.eltd-parallax-section-holder:not(.eltd-full-screen-height-parallax) { height: auto !important;min-height: 400px;}
+
+}
+
+@media only screen and (max-width: 480px){
+	/* generated in /var/www/u0325288/public_html/artsqb.com/wp-content/themes/awake/assets/custom-styles/general-custom-styles-responsive.php awake_elated_design_responsive_styles function */
+.eltd-section.eltd-parallax-section-holder:not(.eltd-full-screen-height-parallax) { height: auto !important;min-height: 400px;}
+
+}
